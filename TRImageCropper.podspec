@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author             = { "ljc" => "lijinchao2007@163.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/PodRepo/TREmotion.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/PodRepo/TRImageCropper.git", :tag => s.version }
 
   s.source_files  = "Classes/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
