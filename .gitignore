@@ -1,3 +1,7 @@
+
+TRImageCropper/Pods
+TRImageCropper/Podfile.lock
+.DS_Store
 # Xcode
 #
 build/
